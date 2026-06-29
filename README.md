@@ -128,10 +128,3 @@ BluetoothSerial
 * Offline mode.
 * Improved error handling and reconnection mechanisms.
 * Support for additional Hearthstone endpoints.
-
-## Author
-
-**George-Catalin Ghiold**
-
-Faculty of Electronics, Telecommunications and Information Technology (TST)
-National University of Science and Technology POLITEHNICA Bucharest
